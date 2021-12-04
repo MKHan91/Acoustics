@@ -1,5 +1,4 @@
 # Acoustics
 Motor acoustics diagnosis
 
-##
-Arranging the data
+Arranging the data...
